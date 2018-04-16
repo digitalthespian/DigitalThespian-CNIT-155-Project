@@ -1,0 +1,10 @@
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\bin\Debug\DigitalThespian=CNIT 155 Project.exe.config
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\bin\Debug\DigitalThespian=CNIT 155 Project.exe
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\bin\Debug\DigitalThespian=CNIT 155 Project.pdb
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\obj\Debug\DigitalThespian=CNIT 155 Project.csprojResolveAssemblyReference.cache
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\obj\Debug\DigitalThespian_CNIT_155_Project.Form1.resources
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\obj\Debug\DigitalThespian_CNIT_155_Project.Properties.Resources.resources
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\obj\Debug\DigitalThespian=CNIT 155 Project.csproj.GenerateResource.Cache
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\obj\Debug\DigitalThespian=CNIT 155 Project.csproj.CoreCompileInputs.cache
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\obj\Debug\DigitalThespian=CNIT 155 Project.exe
+C:\Users\DigitalThespian\Desktop\School Stuff\CNIT 155\DigitalThespian=CNIT 155 Project\DigitalThespian=CNIT 155 Project\obj\Debug\DigitalThespian=CNIT 155 Project.pdb
